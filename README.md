@@ -4,5 +4,5 @@
 
 ### Deploy
 1. <pre><code>git clone https://github.com/henriquelsz/Gridcannon-Card-Game</code></pre>
-2. Compile the project with an IDE ou using <pre><code>gcc</code><pre> command and run the output
+2. Compile the project through jogoApp.c with an IDE ou using <pre><code>gcc</code></pre> command and run the output
 3. Have fun! 😃
