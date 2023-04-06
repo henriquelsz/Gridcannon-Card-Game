@@ -2,7 +2,8 @@
  * Controller.c
  *
  *  Created on: 6 de nov de 2019
- *      Author: usuarios
+ *      Author: Henrique Souza
+ * 		GitHub: henriquelsz
  */
 
 #include<stdio.h>

@@ -2,7 +2,8 @@
  * baralho.h
  *
  *  Created on: 5 de nov de 2019
- *      Author: usuarios
+ *      Author: Henrique Souza
+ * 		GitHub: henriquelsz
  */
 
 #ifndef BARALHO_H_

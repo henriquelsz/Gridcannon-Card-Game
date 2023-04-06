@@ -2,7 +2,8 @@
  * Viwer.c
  *
  *  Created on: 6 de nov de 2019
- *      Author: usuarios
+ *      Author: Henrique Souza
+ * 		Github: henriquelsz
  */
 
 #include<stdio.h>

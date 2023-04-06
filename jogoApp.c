@@ -1,3 +1,11 @@
+/*
+ * Grindcannon game 
+ *
+ *  Created on: 5 de nov de 2019
+ *      Author: Henrique Souza 
+ * 		GitHub: henriquelsz
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include"baralho.h"

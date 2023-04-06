@@ -2,7 +2,8 @@
  * baralho.c
  *
  *  Created on: 5 de nov de 2019
- *      Author: usuarios
+ *      Author: Henrique Souza
+ * 		Github: henriquelsz
  */
 
 #include<stdio.h>

@@ -2,7 +2,8 @@
  * Viwer.h
  *
  *  Created on: 6 de nov de 2019
- *      Author: usuarios
+ *      Author: Henrique Souza
+ *      Github: henriquelsz
  */
 
 #ifndef VIWER_H_
